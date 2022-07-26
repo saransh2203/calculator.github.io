@@ -1,1 +1,1 @@
-
+The CSS code has some 5000+ lines of code because of the loading animation I picked up from a website. It was only 200 lines long on the website but when I exported it to my system, it was 5000+ lines of code.
